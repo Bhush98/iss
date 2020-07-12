@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iss/static/css/main.e5894e63.chunk.css",
+    "main.js": "/iss/static/js/main.196417cc.chunk.js",
+    "main.js.map": "/iss/static/js/main.196417cc.chunk.js.map",
+    "runtime-main.js": "/iss/static/js/runtime-main.78c576fc.js",
+    "runtime-main.js.map": "/iss/static/js/runtime-main.78c576fc.js.map",
+    "static/js/2.e310ce69.chunk.js": "/iss/static/js/2.e310ce69.chunk.js",
+    "static/js/2.e310ce69.chunk.js.map": "/iss/static/js/2.e310ce69.chunk.js.map",
+    "index.html": "/iss/index.html",
+    "precache-manifest.f97319da165b70f79e4cfbe21241edf0.js": "/iss/precache-manifest.f97319da165b70f79e4cfbe21241edf0.js",
+    "service-worker.js": "/iss/service-worker.js",
+    "static/css/main.e5894e63.chunk.css.map": "/iss/static/css/main.e5894e63.chunk.css.map",
+    "static/js/2.e310ce69.chunk.js.LICENSE.txt": "/iss/static/js/2.e310ce69.chunk.js.LICENSE.txt",
+    "static/media/251640.jpg": "/iss/static/media/251640.a7e0fc8b.jpg",
+    "static/media/astro.png": "/iss/static/media/astro.776e39a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78c576fc.js",
+    "static/js/2.e310ce69.chunk.js",
+    "static/css/main.e5894e63.chunk.css",
+    "static/js/main.196417cc.chunk.js"
+  ]
+}
